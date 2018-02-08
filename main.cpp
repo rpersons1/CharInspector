@@ -16,14 +16,13 @@ char one;
   }
   else if(one>='a' && one <='z')
   {
-  //when user's entry is between a-z...
-  
+  //when user's entry is between a-z...  
   cout<<" is a lower case letter!\n";
   }
   else
   {
   //in all other cases...
-  cout<<"?! Pssh. What are you talking about?\n";
+  cout<<"$! Pssh. What are you talking about?\n";
   }
   //no matter what they enter...
   cout<<"The ASCII value is: "<<(int) one<<endl;
