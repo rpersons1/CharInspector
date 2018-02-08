@@ -22,7 +22,7 @@ char one;
   else
   {
   //in all other cases...
-  cout<<one<<"$?! Pssh. What are you talking about?\n";
+  cout<<"$?! Pssh. What are you talking about?\n";
   }
   //no matter what they enter...
   cout<<"The ASCII value is: "<<(int) one<<endl;
